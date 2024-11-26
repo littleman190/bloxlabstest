@@ -2,7 +2,7 @@
 header('Content-Type: application/json');
 
 // URL of the hosted JSON file
-$jsonUrl = 'https://your-website.com/versions.json';
+$jsonUrl = 'https://littleman190.github.io/bloxlabstest/versions.json';
 
 // Fetch the JSON from the hosted website
 $jsonData = file_get_contents($jsonUrl);
